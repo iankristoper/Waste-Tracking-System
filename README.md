@@ -1,1 +1,1 @@
-# Dapitan-Waste-Tracking-System
+# Waste-Tracking-System
